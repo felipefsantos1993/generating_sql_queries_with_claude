@@ -6,6 +6,6 @@
 ##### • Python 3.12
 #
 ### Project Description:
-###### How to collect generate SQL queries using Claude in Databricks.
+###### How to generate SQL queries using Claude in Databricks.
 
 
